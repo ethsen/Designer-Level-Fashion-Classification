@@ -43,6 +43,10 @@ analysis, and nearest-neighbor retrieval in feature space.
   - `train/`
   - `val/`.
 
+  The data itself could not fit in this repo, so we saved it on google drive. A subset of the data can be found here:
+
+  https://drive.google.com/file/d/1IVy4fgaliBS8TyMTpeXYFjfXMcb3pKBS/view?usp=sharing
+
 - `models/`  
   Directory containing pretrained model checkpoints used for analysis (e.g.,
   best ResNet-50 and FashionNet-Medium weights).
