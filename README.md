@@ -1,1 +1,0 @@
-# Designer-Level-Fashion-Classification
